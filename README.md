@@ -219,6 +219,7 @@ Core responsibilities and achievements:
 ## 📊 GitHub Stats
 
 ![Fisk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cracked-Fisko&show_icons=true&theme=tokyonight)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cracked-Fisko&layout=compact&theme=tokyonight)
 
 ---
