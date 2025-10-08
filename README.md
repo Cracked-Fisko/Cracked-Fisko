@@ -19,7 +19,7 @@
 I'm a motivated IT professional based in **Greater Manchester, UK**, with a passion for technology, cybersecurity, and continuous learning. I combine hands-on IT support experience with active development projects and security training.
 
 ```yaml
-current_focus:
+current focus:
   - Discord bot development & community management
   - Achievement management tools & API integrations
   - Cybersecurity training via TryHackMe (50+ rooms completed)
