@@ -219,7 +219,6 @@ Core responsibilities and achievements:
 ## 📊 GitHub Stats
 
 ![Fisk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cracked-Fisko&show_icons=true&theme=tokyonight)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cracked-Fisko&layout=compact&theme=tokyonight)
 
 ---
@@ -231,7 +230,6 @@ Core responsibilities and achievements:
 <div align="center">
 
 [![Discord](https://img.shields.io/badge/Discord-spiffinfisky-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
-[![Website](https://img.shields.io/badge/Website-spicystudio.co.uk-00ADD8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://spicystudio.co.uk/)
 [![GitHub](https://img.shields.io/badge/GitHub-Cracked--Fisko-181717?style=for-the-badge&logo=github)](https://github.com/Cracked-Fisko)
 
 </div>
